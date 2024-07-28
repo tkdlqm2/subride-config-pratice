@@ -3,3 +3,6 @@ server:
 spring:
   application:
     name: ${SPRING_APPLICATION_NAME}
+
+user:
+  nickname: 김홍준
